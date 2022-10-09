@@ -18,7 +18,7 @@ Either intellij or eclpise editor is needed for pratice. Most developers use int
 
 ## Core Java <a name="core-java"></a>
 
-- [Core Java Basics](https://www.youtube.com/watch?v=yEa641gwY30)
+- [Core Java Basics](https://www.youtube.com/watch?v=8cm1x4bC610)
 - [Java For Beginners from Microsoft](https://www.youtube.com/playlist?list=PLlrxD0HtieHgX3ExVDMlKjdN8LJsks2CM)
 - [Java 8 Features](https://www.youtube.com/watch?v=ePJrt5-G8eM)
 
@@ -55,4 +55,4 @@ Either intellij or eclpise editor is needed for pratice. Most developers use int
 
 - [Spring Boot Fundamentals](https://www.youtube.com/watch?v=35EQXmHKZYs)
 
-- [Spring Boot Excercise](https://github.com/BNYMellon/spring-kata/tree/main/spring-boot)
+- [Spring Boot Practice](https://github.com/BNYMellon/spring-kata/tree/main/spring-boot)
