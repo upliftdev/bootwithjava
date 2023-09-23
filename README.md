@@ -15,7 +15,7 @@
 - [Install Intellij Editor](https://www.youtube.com/watch?v=-5kIt83ldk8)
 - [Install Eclipse Editor](https://www.youtube.com/watch?v=h7dR_9RcnY8)
 
-Either intellij or eclpise editor is needed for pratice. Most developers use intellij  nowadays
+Either intellij or eclipse editor is needed for practice. Most developers use intellij  nowadays
 
 ## Core Java <a name="core-java"></a>
 
